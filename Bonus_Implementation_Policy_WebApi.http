@@ -1,0 +1,6 @@
+@Bonus_Implementation_Policy_WebApi_HostAddress = http://localhost:5073
+
+GET {{Bonus_Implementation_Policy_WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
