@@ -1,0 +1,16 @@
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\MetaQuotes.MT5CommonAPI64.dll
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\MetaQuotes.MT5ManagerAPI64.dll
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\MT5APIManager64.dll
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\Bonus_Implementation_Policy_WebApi.exe
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\Bonus_Implementation_Policy_WebApi.dll
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\Bonus_Implementation_Policy_WebApi.deps.json
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\Bonus_Implementation_Policy_WebApi.runtimeconfig.json
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\Bonus_Implementation_Policy_WebApi.pdb
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\DotNetEnv.dll
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\Sprache.dll
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

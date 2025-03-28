@@ -16,10 +16,34 @@ public class MT5AccountandData
         return res;
     }
 
-    public MTRetCode UserByGroup(out CIMTUserArray userArrays)
+    public uint TotalGroups()
     {
-        string mask = "*";
+        uint res = _connection.GroupTotal();
+        return res;
+    }
 
+    public MTRetCode GroupByIndex(uint index, out CIMTConGroup? group)
+    {
+
+        CIMTConGroup Group = _connection.GroupCreate();
+
+        MTRetCode res = _connection.GroupNext(
+             index,
+            Group
+        );
+
+        if (res != MTRetCode.MT_RET_OK)
+        {
+            group = null;
+            return res;
+        }
+
+        group = Group;
+        return res;
+    }
+
+    public MTRetCode UserByGroup(string mask, out CIMTUserArray userArrays)
+    {
         CIMTUserArray userArray = _connection.UserCreateArray();
 
         var res = _connection.UserGetByGroup(mask, userArray);
@@ -67,17 +91,17 @@ public class MT5AccountandData
 
     }
 
-    public MTRetCode UserDealArray(long from, long to , out CIMTDealArray dealArray)
+    public MTRetCode UserDealArray(long from, long to, out CIMTDealArray dealArray)
     {
         CIMTDealArray dealArray1 = _connection.DealCreateArray();
         string group = "*";
-       
+
         Console.WriteLine($"from {from} ");
         Console.WriteLine($"to {to} ");
 
         MTRetCode res = _connection.DealRequestByGroup(group, from, to, dealArray1);
         // Console.WriteLine($"res is {res}");
- 
+
         dealArray = dealArray1;
         return res;
 

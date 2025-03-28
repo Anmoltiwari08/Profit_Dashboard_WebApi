@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Bonus_Implementation_Policy_WebApi.props" />
+</Project>

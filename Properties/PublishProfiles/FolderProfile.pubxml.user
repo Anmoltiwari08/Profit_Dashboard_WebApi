@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-03-27T16:17:40.2810593Z||;True|2025-03-27T21:47:20.5667505+05:30||;True|2025-03-27T21:39:44.6902726+05:30||;True|2025-03-27T21:12:43.1097460+05:30||;True|2025-03-27T21:12:19.0069501+05:30||;True|2025-03-27T17:56:11.4084531+05:30||;True|2025-03-27T16:26:12.1720908+05:30||;True|2025-03-27T13:34:44.8990708+05:30||;True|2025-03-27T13:27:10.8698124+05:30||;True|2025-03-27T12:34:16.7030820+05:30||;True|2025-03-26T21:44:34.4202656+05:30||;False|2025-03-26T21:39:55.3893445+05:30||;True|2025-03-26T21:12:54.3331322+05:30||;True|2025-03-26T20:52:16.6051215+05:30||;True|2025-03-26T20:20:22.4511238+05:30||;True|2025-03-26T20:20:17.0827078+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

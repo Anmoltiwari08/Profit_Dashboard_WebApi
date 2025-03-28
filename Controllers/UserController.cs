@@ -14,7 +14,7 @@ namespace Bonus_Implementation_Policy_WebApi.Controllers
         [HttpGet("Hello")]
         public IActionResult Get()
         {
-            return Ok(new { message = "Hello from this world " });
+            return new JsonResult(new { message = "Hello" });
         }
 
     }

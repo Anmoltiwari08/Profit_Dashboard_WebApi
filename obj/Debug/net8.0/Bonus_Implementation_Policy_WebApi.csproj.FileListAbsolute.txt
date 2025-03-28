@@ -38,3 +38,4 @@ C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\bin\De
 C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\bin\Debug\net8.0\MT5APIManager64.dll
 C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\bin\Debug\net8.0\DotNetEnv.dll
 C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\bin\Debug\net8.0\Sprache.dll
+C:\coding\CSharp\Projects\ThirdProject\Bonus_Implementation_Policy_WebApi\obj\Debug\net8.0\Bonus_Implementation_Policy_WebApi.sourcelink.json
