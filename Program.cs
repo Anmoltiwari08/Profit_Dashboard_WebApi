@@ -32,8 +32,8 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowReactApp",
         policy => policy.WithOrigins(
             // "https://credit-setller-frontend.vercel.app"
-            "http://localhost:5173"
-             //  "http://136.243.73.35:5173"
+            // "http://localhost:5173"
+              "http://136.243.73.35:5173"
              )
                         .AllowCredentials()
                         .AllowAnyMethod()

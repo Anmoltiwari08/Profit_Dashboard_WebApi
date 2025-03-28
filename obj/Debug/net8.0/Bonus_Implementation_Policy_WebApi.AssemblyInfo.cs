@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bonus_Implementation_Policy_WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0fb2a0ef706292b0338e0c73ec2ed86f8245fc7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+521c6a2567dde2ffef41411cf527a8305f6dbde2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bonus_Implementation_Policy_WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bonus_Implementation_Policy_WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
